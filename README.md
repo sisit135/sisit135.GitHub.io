@@ -7,7 +7,7 @@ Mindustry:MindustryUser
 Skill:  
 .NET  
 Mindustry modding  
-Reverse engineering
+Playing games
 
 
 ## Projects
