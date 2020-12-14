@@ -1,10 +1,10 @@
 ## About me
 <img align="right" width="160px" height="160px" src="https://avatars3.githubusercontent.com/u/63706816?s=460&u=4e0a71cc110624f4f44cc9e64f96b791b42af47b&v=4">
 My name is sisit tontrakarnkul  
-Youtube:
-Mindustry:MindustryUser
+Youtube:  
+Mindustry:MindustryUser  
 
-Skill:
+Skill:  
 .NET  
 Mindustry modding  
 Reverse engineering
