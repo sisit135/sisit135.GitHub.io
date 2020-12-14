@@ -1,15 +1,13 @@
 ## About me
 
 My name is sisit tontrakarnkul 
-Age:12
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My data visual. 
 
-### Markdown
+#### Google trend
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+#### Data collection
 ```markdown
 Syntax highlighted code block
 
